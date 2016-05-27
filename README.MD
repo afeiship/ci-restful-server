@@ -9,3 +9,8 @@ RESTful server based on CodeIgniter.
 
 ##db help:
 + http://ci.com/user_guide/database/helpers.html
+
+##usage:
++ http://ci.com/api/test/users/
++ http://ci.com/api/test/users?id=1
+
