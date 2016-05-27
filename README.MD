@@ -6,3 +6,6 @@ RESTful server based on CodeIgniter.
 
 ##resources:
 + https://github.com/chriskacerguis/codeigniter-restserver
+
+##db help:
++ http://ci.com/user_guide/database/helpers.html
