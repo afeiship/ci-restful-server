@@ -22,15 +22,18 @@ class Base_Model extends CI_Model
     return $this->table;
   }
 
+  /**============ C ============**/
   public function create()
   {
   }
 
+  /**============ U ============**/
   public function update()
   {
 
   }
 
+  /**============ R ============**/
   public function all()
   {
     $query = $this->db->get($this->table);
@@ -44,6 +47,7 @@ class Base_Model extends CI_Model
     return $query->result();
   }
 
+  /**============ D ============**/
   public function delete($inId)
   {
   }
