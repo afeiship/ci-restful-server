@@ -1,0 +1,24 @@
+{
+  "name": "ci-restful-server",
+  "description": "RESTful server based on CodeIgniter.",
+  "main": "dist/ci-restful-server.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/ci-restful-server",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
