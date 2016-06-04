@@ -11,6 +11,6 @@ RESTful server based on CodeIgniter.
 + http://ci.com/user_guide/database/helpers.html
 
 ##usage:
-+ http://ci.com/api/test/users/
-+ http://ci.com/api/test/users?id=1
++ http://ci.com/api/test/account
++ http://ci.com/api/test/account?id=1
 
